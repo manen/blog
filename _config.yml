@@ -22,7 +22,7 @@ exclude:
   - README.md
 
 sass:
-  sass_dir: _sass
+  sass_dir: styles.css
   style: :compressed
 
 # Options
@@ -32,12 +32,12 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: manen
+  url: https://manen.me
+  email: varga.bercel.i@gmail.com
 
 # Custom vars
-version: 3.0.0
+version: 1.0.0
 
 # Navbar page list
 nav:
